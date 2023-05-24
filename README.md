@@ -7,3 +7,9 @@ original - [https://github.com/zyxElsa/InST](https://github.com/zyxElsa/InST)
 ```
 python3 transfer_style.py -cont_im Images/vazovski.jpeg -style_im Images/shrek.png
 ```
+# Examples
+
+
+<img width="319" alt="shrek" src="https://github.com/GendalfSeriyy/StyleTransfer/assets/55240294/f27df31f-34ff-4438-abd9-bb551fc0d0c7">
+![chad](https://github.com/GendalfSeriyy/StyleTransfer/assets/55240294/d88387ce-d3bb-44ea-b60f-8fed61ea6cdc)
+<img width="446" alt="Снимок экрана 2023-05-24 в 15 17 07" src="https://github.com/GendalfSeriyy/StyleTransfer/assets/55240294/e6b72442-f7f4-4883-91df-796163b1ec52">
