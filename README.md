@@ -9,6 +9,7 @@ python3 transfer_style.py -cont_im Images/vazovski.jpeg -style_im Images/shrek.p
 ```
 # Examples
 
+Shrek + Gigachad
 
 <img width="319" alt="shrek" src="https://github.com/GendalfSeriyy/StyleTransfer/assets/55240294/f27df31f-34ff-4438-abd9-bb551fc0d0c7">
 
@@ -18,8 +19,9 @@ python3 transfer_style.py -cont_im Images/vazovski.jpeg -style_im Images/shrek.p
 
 <img width="461" alt="Снимок экрана 2023-05-24 в 15 13 28" src="https://github.com/GendalfSeriyy/StyleTransfer/assets/55240294/a126a011-93a9-4b78-a406-457ed24fe294">
 
+Shrek + Wazowski
 
 <img width="319" alt="shrek" src="https://github.com/GendalfSeriyy/StyleTransfer/assets/55240294/f27df31f-34ff-4438-abd9-bb551fc0d0c7">
-<img width="319" alt="vasovski" src=https://github.com/GendalfSeriyy/StyleTransfer/assets/55240294/dfa0e1c5-d57c-49ec-985a-e994648c0095>
+<img width="319" alt="Wazowski" src=https://github.com/GendalfSeriyy/StyleTransfer/assets/55240294/dfa0e1c5-d57c-49ec-985a-e994648c0095>
 <img width="506" alt="shrekovas" src="https://github.com/GendalfSeriyy/StyleTransfer/assets/55240294/e9416304-f94f-45b7-948a-9b7bdf98f60a">
 
