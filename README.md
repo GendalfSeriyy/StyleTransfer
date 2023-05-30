@@ -1,8 +1,9 @@
 original - [https://github.com/zyxElsa/InST](https://github.com/zyxElsa/InST)
 
 # Infer
-1. Download https://huggingface.co/CompVis/stable-diffusion-v-1-4-original/resolve/main/sd-v1-4.ckpt and put it in models/sd
-2. Create env
+1. Clone repo
+2. Download https://huggingface.co/CompVis/stable-diffusion-v-1-4-original/resolve/main/sd-v1-4.ckpt and put it in models/sd
+3. Create env
 ```
 chmod 777 create_venv.sh
 ./create_venv.sh
